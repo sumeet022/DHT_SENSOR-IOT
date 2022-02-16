@@ -1,0 +1,3 @@
+Dht sensor ---> It is a sensor where we can collect the temperature of the room .
+The below code is used for recording temperature of a room and displaying it on a webpage , Using Apcahe server (LocalHost)
+
